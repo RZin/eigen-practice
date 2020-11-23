@@ -1,1 +1,2 @@
-# Examples to practice eigen library
+# eigen-practice
+practice linear algebra tools with eigen library 
